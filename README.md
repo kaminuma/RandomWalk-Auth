@@ -50,7 +50,7 @@ The current implementation focuses on a simplified version of the concept, utili
 This project is an experimental proof of concept. Please note that it is not yet production-ready. We welcome suggestions, feedback, and contributions to explore the potential of this authentication approach.
 
 ## Conclusion
-RandomWalk-Auth represents an innovative approach to authentication, exploring the use of random walks for secure user verification. While still in its early stages, the project offers a unique perspective on non-traditional authentication methods. We invite developers and researchers to contribute to its further development.
+RandomWalk-Auth represents an innovative approach to authentication, exploring the use of random walks for secure user verification. While still in its early stages, the project offers a unique perspective on non-traditional authentication methods.
 
 
 # RandomWalk-Auth
@@ -101,4 +101,4 @@ RandomWalk-Auth represents an innovative approach to authentication, exploring t
 - **データベース**: SQLite（デモ用）
 
 ## おわりに
-**RandomWalk-Auth** は、ランダムウォークを活用したユニークな認証方法の可能性を探るプロジェクトです。現段階では実験的な実装に留まっていますが、さらなる改良により、将来的にはより安全で柔軟な認証方式の構築が可能と考えています。開発者や研究者のフィードバックと協力を歓迎します。
+**RandomWalk-Auth** は、ランダムウォークを活用したユニークな認証方法の可能性を探るプロジェクトです。現段階では実験的な実装に留まっていますが、さらなる改良により、将来的にはより安全で柔軟な認証方式の構築が可能と考えています。
